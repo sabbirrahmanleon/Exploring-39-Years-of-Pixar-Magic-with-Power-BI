@@ -17,3 +17,5 @@ Pixar has revolutionized the animation industry with its storytelling, innovatio
 ✅ Return on costs: 281%
 
 This project challenged me to apply data visualization, storytelling, and analytics to bring insights to life!
+
+View the live project on Power BI Service 👉 https://app.powerbi.com/view?r=eyJrIjoiMGRiNjc0M2MtZWI5ZC00YTJhLWFkYmYtNWI2MzQxYmYwOWE3IiwidCI6ImM1NTAzYzFhLTRjZWItNDNjMS1iODU4LTExOTAzNGI2Nzk0OCIsImMiOjEwfQ%3D%3D&pageName=1ed963d6bc5760e632ce
