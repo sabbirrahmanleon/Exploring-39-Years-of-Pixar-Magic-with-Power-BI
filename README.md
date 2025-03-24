@@ -12,7 +12,7 @@ Pixar has revolutionized the animation industry with its storytelling, innovatio
 
 ✅ Highest-grossing movie: Inside Out 2 ($1.7B)
 
-✅ IMDb’s highest-rated Pixar movie: WALL-E (8.40/10)
+✅ IMDb’s highest-rated Pixar movie: WALL-E, Coco (8.40/10)
 
 ✅ Return on costs: 281%
 
